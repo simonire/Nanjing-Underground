@@ -1,4 +1,7 @@
 # 南京地铁PCB
+
+立创eda开源平台：https://oshwhub.com/lemon_wifi/PCBdi-tie-ka-pian
+
 ## linecard.pcbdoc
 - 可直接打样
 - 也可以自行修改!
